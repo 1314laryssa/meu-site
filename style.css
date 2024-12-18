@@ -1,0 +1,171 @@
+body{
+background-color: rgb(243, 174, 226);
+    margin:0;
+}
+#menu {
+    background-color: rgb(208, 113, 173);
+    width: 302px;
+    height: 1200px;
+    text-align: center;
+    box-shadow: 5px 5px 12px rgb(209, 90, 167);
+    margin-top: -50px;
+}
+
+.logo{
+    width: 150px;
+    border: 7px double ;
+    border-radius: 50%;
+    color: rgb(209, 40, 150);
+    margin-top: 80px;
+    box-shadow: 5px 5px 20px rgb(208, 44, 151)
+}
+
+h1{
+    font-size:1,6rem;
+    color: #ffffff;
+    font-family: sans-serif;
+    text-shadow:5px 5px 5px rgb(207, 60, 156);
+}
+h2{
+    font-size: 2rem;
+    color: #fff;
+    font-family: sans-serif;
+    text-shadow: 5px 5px 5px rgb(219, 76, 155);
+}
+.links{
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   font-size:1.5rem;
+   font-family: "sans-serif";
+   display: flex;
+   flex-direction: column;
+   padding-top: 2rem;
+   transition: all 0.5s ease;
+}
+.links:hover {
+   
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    box-shadow: 5px 5px 10px black;
+}
+
+header{
+    float: left;
+}
+
+.info01{
+    background-color: rgb(209, 90, 167);
+    margin:1rem 1rem 1.5rem 20rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgb(209, 90, 167) ;
+    color: #fff;
+}
+
+.info02{
+    background-color: rgb(209, 90, 167);
+    margin:1rem 1rem 1.5rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgb(209, 90, 167) ;
+    color: #fff;
+    width: 250px;
+    height: 200px;
+   
+    
+}
+
+.info03{
+    background-color: rgb(209, 90, 167);
+    margin:1rem 1rem 1.5rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgb(209, 90, 167) ;
+    color: #fff;
+    width: 250px;
+    height: 200px;
+}
+
+.info04{
+    background-color: rgb(209, 90, 167);
+    margin:1rem 1rem 1.5rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgb(209, 90, 167) ;
+    color: #fff;
+    width: 250px;
+    height: 200px;
+}
+
+.info05{
+    background-color: rgb(209, 90, 167);
+    margin:1rem 1rem 1.5rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgb(209, 90, 167) ;
+    color: #fff;
+    width: 250px;
+    height: 200px;
+}
+
+.info06{
+    background-color: rgb(209, 90, 167);
+    margin:1rem 1rem 1.5rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgb(209, 90, 167) ;
+    color: #fff;
+    width: 250px;
+    height: 200px;
+}
+
+.info07{
+    background-color: rgb(209, 90, 167);
+    margin:1rem 1rem 1.5rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgb(209, 90, 167);
+    color: #fff;
+    width: 250px;
+    height: 200px;
+}
+
+.info08{
+    background-color: rgb(209, 90, 167);
+    margin:1rem 1rem 1.5rem 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 5px 5px 10px rgb(209, 90, 167) ;
+    color: #fff;
+    width: 250px;
+    height: 200px;
+    overflow: scroll;
+    
+}
+
+#conteudo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer{
+    background-color:rgb(209, 90, 167) ;
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 0.5rem;
+    margin: -15px;
+    clear: both;
+}
+h3{
+    text-align: center;
+    font-size: 2rem;
+    font-family: sans-serif;
+    text-shadow: 5px 5px 5px rgb(209, 90, 167) ;
+}
+  p{
+    font-size: 20px;
+  }
+  
+  
